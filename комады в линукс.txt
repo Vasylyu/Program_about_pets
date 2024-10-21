@@ -1,0 +1,42 @@
+
+cat > pets
+
+cat > pack animals
+
+cat > pack_animals
+
+ls
+
+cat pets pack_animals >> mans_friends
+
+ls
+
+cd mans_friemds
+
+ls mans_friends
+
+cat mans_friends
+
+mcdir control_work
+
+mkdir control_work
+
+cd
+
+cd home_work
+
+ls
+
+mv mans_friends ./control_work
+
+tree
+
+cd control_work
+
+ls
+
+cat mans_friends
+
+sudo apt install mysql-server
+
+sudo apt install dpkg
